@@ -1,0 +1,62 @@
+[
+    {
+        "codigo": "00001",
+        "nombre": "PC GAMER HD",
+        "inventario": 9,
+        "precio": 3000000
+    },
+    {
+        "codigo": "00013",
+        "nombre": "TELEVISION 22\"",
+        "inventario": 0,
+        "precio": 1200000
+    },
+    {
+        "codigo": "00027",
+        "nombre": "ASPIRADORA KALLEY",
+        "inventario": 4,
+        "precio": 700000
+    },
+    {
+        "codigo": "00035",
+        "nombre": "VENTILADOR RECARGABLE",
+        "inventario": 8,
+        "precio": 300000
+    },
+    {
+        "codigo": "00050",
+        "nombre": "ALEXA ASISTENTE DE VOZ",
+        "inventario": 15,
+        "precio": 500000
+    },
+    {
+        "codigo": "00033",
+        "nombre": "MINECRAFT POCKET EDITION",
+        "inventario": 4,
+        "precio": 250000
+    },
+    {
+        "codigo": "00026",
+        "nombre": "POPCAP GAMES COLLECTION",
+        "inventario": 6,
+        "precio": 200000
+    },
+    {
+        "codigo": "00014",
+        "nombre": "TELE",
+        "inventario": 10,
+        "precio": 1300000
+    },
+    {
+        "codigo": "00051",
+        "nombre": "BOTELLA",
+        "inventario": 1,
+        "precio": 50000
+    },
+    {
+        "codigo": "00024",
+        "nombre": "RELOJ",
+        "inventario": 10,
+        "precio": 70000
+    }
+]
